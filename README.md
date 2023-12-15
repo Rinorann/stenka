@@ -1,0 +1,2 @@
+# stenka
+Stenka game (squash)
